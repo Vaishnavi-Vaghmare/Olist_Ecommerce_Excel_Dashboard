@@ -1,4 +1,5 @@
 Olist E-Commerce Sales Analysis | Excel
+
 Analyzed 100,000+ e-commerce transaction records by cleaning, transforming, and validating
 raw datasets to ensure high-quality data for business analysis and reporting.
 Performed SQL-based exploratory data analysis (EDA) to identify trends in sales performance,
